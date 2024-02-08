@@ -5,7 +5,7 @@
 
 console.log(10 === 10.0)
 
-// конвертация в число 
+// конвертация в число
 Number('10')
 +'10'
 
@@ -19,3 +19,4 @@ console.log(Number.isNaN(10 / 0))  // Infinity
 console.log(Number.isFinite('10asd'))  // более правильная проверка на число
 console.log(Number.isInteger('10'))  // true
 console.log(Number.isInteger('10.4'))  // false
+console.log('------>  =====> ',  );
